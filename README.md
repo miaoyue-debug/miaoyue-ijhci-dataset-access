@@ -16,7 +16,3 @@ Individual-level data are not publicly accessible to protect participant confide
 ## Requesting access
 
 Researchers seeking access should contact the corresponding author, specifying the data requested and the proposed research use.
-
-Corresponding author: [Morris Siu-yung Jong]
-
-Email: [mjong@cuhk.edu.hk]
